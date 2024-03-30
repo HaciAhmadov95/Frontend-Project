@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+body{
+  font-family: "Jost";
+}
+
+@font-face {
+  font-family: "Jost";
+  src: url(../fonts/Jost/Jost-Italic-VariableFont_wght.ttf);
+}
 #head_up {
   position: relative;
   width: 100%;
